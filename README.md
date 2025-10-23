@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/UMGen_Logo.png" width="80">
 <!-- <h1>UMGen</h1> -->
-<h3>[Generating Multimodal Driving Scenes via Next-Scene Prediction](https://openaccess.thecvf.com/content/CVPR2025/papers)</h3>
+### [Generating Multimodal Driving Scenes via Next-Scene Prediction](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Generating_Multimodal_Driving_Scenes_via_Next-Scene_Prediction_CVPR_2025_paper.pdf)
 
 [Yanhao Wu](https://yanhaowu.github.io/UMGen)<sup>1,2</sup>, [Haoyang Zhang](https://scholar.google.com.hk/citations?user=PlMpgeIAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>, [Tianwei Lin](https://wzmsltw.github.io/)<sup>2</sup>, [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en&oi=ao/)<sup>2</sup>, 
 
