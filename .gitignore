@@ -1,0 +1,26 @@
+*.pyc
+# *.npy
+# *.pth
+*.whl
+*.swp
+
+carla/
+data/
+ckpt/
+work_dirs*/
+dist_test/
+vis/
+val/
+lib/
+
+# *.egg-info
+build/
+__pycache__/
+# *.so
+
+data/controlled_scenes
+data/tokenized_origin_scenes
+data/weights
+
+output/
+lightning_logs/

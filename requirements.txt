@@ -1,0 +1,8 @@
+opencv-python
+pytorch-lightning==2.2.5
+numba==0.57.0
+mmcv-full==1.7.1
+deepspeed==0.10.3
+einops
+matplotlib
+flash-attn==2.3.2
