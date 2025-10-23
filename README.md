@@ -5,7 +5,7 @@
 
 [Yanhao Wu](https://yanhaowu.github.io/UMGen)<sup>1,2</sup>, [Haoyang Zhang](https://scholar.google.com.hk/citations?user=PlMpgeIAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>, [Tianwei Lin](https://wzmsltw.github.io/)<sup>2</sup>, [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en&oi=ao/)<sup>2</sup>, 
 
-[Shujie Luo](https://scholar.google.com.hk/citations?user=BDaj_esAAAAJ&hl=zh-CN&oi=ao/)<sup>2</sup>, [Rui Wu](https://scholar.google.com.hk/citations?user=Z_ZkkbEAAAAJ&hl=zh-CN&oi=ao/)<sup>2</sup>, [Congpeiu Qiu](https://congpeiqiu.github.io)<sup>1</sup>, [Wei Ke](https://gr.xjtu.edu.cn/en/web/wei.ke/home/)<sup>1</sup>, [Tong Zhang](https://scholar.google.com/citations?user=kCy8JG8AAAAJ&hl=en&oi=ao)<sup>3, 4</sup>,
+[Shujie Luo](https://scholar.google.com.hk/citations?user=BDaj_esAAAAJ&hl=zh-CN&oi=ao/)<sup>2</sup>, [Rui Wu](https://scholar.google.com.hk/citations?user=Z_ZkkbEAAAAJ&hl=zh-CN&oi=ao/)<sup>2</sup>, [Congpei Qiu](https://congpeiqiu.github.io)<sup>1</sup>, [Wei Ke](https://gr.xjtu.edu.cn/en/web/wei.ke/home/)<sup>1</sup>, [Tong Zhang](https://scholar.google.com/citations?user=kCy8JG8AAAAJ&hl=en&oi=ao)<sup>3, 4</sup>,
  
 <sup>1</sup> Xi'an Jiaotong University, <sup>2</sup> Horizon Robotics, <sup>3</sup> EPFL, <sup>4</sup> University of Chinese Academy of Sciences
 
