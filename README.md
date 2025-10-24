@@ -30,16 +30,15 @@ UMGen generates **multimodal driving scenes**, where each scene integrates:
 <!-- <video width="640" height="360" controls style="display:block; margin-top:-60px;">
   <source src="assets/Teaser_formated.gif" type="video/mp4">
 </video> -->
-[Teaser_Video](assets/Teaser_formated.gif)
+<!-- [Teaser_Video](assets/Teaser_formated.gif) -->
+https://github.com/user-attachments/assets/afe62434-1a9e-44dc-b1bd-b67d48e1b693
 
 
 ### 🤖 User-Specified Scenario Generation
 UMGen also supports **user-specified scenario generation**.  
 In this video, we control the agent to simulate a **cut-in maneuver scenario**.
 
-[Userset_Scene](assets/Userset_Scene.git)
-
-
+https://github.com/user-attachments/assets/a3224d85-08df-4e36-a47d-f3e88f2b7ad6
 
 ### 📎 More Information
 For more videos and details, please refer to our  [![Paper](https://img.shields.io/badge/Paper-UMGen-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Generating_Multimodal_Driving_Scenes_via_Next-Scene_Prediction_CVPR_2025_paper.pdf)  and  [![UMGen](https://img.shields.io/badge/ProjectPage-UMGen-blue)](https://yanhaowu.github.io/UMGen/)
